@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "language": "en",
+    "last_updated": "2025-09-25"
+  },
+  "lessons": [
+    {
+      "id": "lesson_001",
+      "title": "Sun Salutation A",
+      "description": "A warm-up sequence to awaken the body.",
+      "duration_sec": 180,
+      "level": "beginner"
+    },
+    {
+      "id": "lesson_002",
+      "title": "Seated Breathing",
+      "description": "Guided breathing to calm the mind.",
+      "duration_sec": 120,
+      "level": "all"
+    }
+  ]
+}
