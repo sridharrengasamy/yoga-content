@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "language": "en",
+    "last_updated": "2025-09-26"
+  },
+  "lessons": [
+    {
+      "id": "lesson_001",
+      "title": "Naturapathy",
+      "description": "Naturapathy cure humanbody the body.",
+      "duration_sec": 180,
+      "level": "beginner"
+    },
+    {
+      "id": "lesson_002",
+      "title": "Steam Bothing",
+      "description": "Steam bothing gives freshness to human body.",
+      "duration_sec": 120,
+      "level": "all"
+    }
+  ]
+}
